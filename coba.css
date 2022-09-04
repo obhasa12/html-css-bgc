@@ -1,0 +1,15 @@
+div>img{
+    width: 200px;
+    border: 1px solid black;
+    border-radius:10%
+}
+
+div.monyet{
+    width: 200px;
+    text-align: center;
+    padding-left: 200px;
+
+}
+body{
+    background: mistyrose;
+}
